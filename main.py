@@ -12,7 +12,7 @@ echoified = (text
     .replace("G", "𝐆")
     .replace("H", "𝐇")
     .replace("I", "𝐈")
-    .replace("G", "𝐉")
+    .replace("J", "𝐉")
     .replace("K", "𝐊")
     .replace("L", "𝐋")
     .replace("M", "𝐌")
